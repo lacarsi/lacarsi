@@ -15,4 +15,6 @@
 <div align="center">
   <div style="display: inline_block">
   <img align="center" alt="i-astudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="i-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+          
   </div>
