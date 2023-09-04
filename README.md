@@ -13,10 +13,5 @@
   <img align="center" alt="i-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="i-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
-</div><br><br>
-<div align="center">
-  <div style="display: inline_block">
-  <img align="center" alt="i-astudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="i-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp; &nbsp;
-  <img align="center" alt="i-eclipse" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg">
-  </div> 
+</div>
+
